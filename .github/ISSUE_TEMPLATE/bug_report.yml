@@ -84,7 +84,7 @@ body:
         required: true
 
   - type: checkboxes
-    id: read
+    id: read-code-of-conduct
     attributes:
       label: Have you read the Code of Conduct?
       description: Please read the CODE OF CONDUCT.
