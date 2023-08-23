@@ -1,0 +1,10 @@
+This Spotify clone should not be used as a replacement for the original Spotify Website and app. 
+This repo is original created by AntonioErdeljac - see Github repo: https://github.com/antonioerdeljac/next13-spotify
+                                                 - see YouTube Video: https://www.youtube.com/watch?v=2aeMRB8LL4o 
+
+The icons and logos were downloaded from the following sources:
+- https://developer.spotify.com/documentation/design#using-our-logo
+
+Note:
+I don't earn money with this repo, it's just created to practice my skills with Next.js, 
+React, Tailwind.css, Supabase, PostgreSQL, and Stripe
