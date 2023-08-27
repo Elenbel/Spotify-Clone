@@ -7,4 +7,3 @@ The Spotify-Clone is not meant to replace the real Spotify but rather a rebuild 
 
 See [here](spotify-clone/README.md).
 Acknowledgement see [here](Acknowledgement.txt).
-

@@ -15,7 +15,7 @@ body:
         A clear and concise description of what the bug is...
     validations:
       required: true
-      
+
   - type: textarea
     attributes:
       label: To Reproduce
@@ -36,26 +36,25 @@ body:
         A clear and concise description of what you expected to happen...
     validations:
       required: true
-      
+
   - type: textarea
     attributes:
       label: Version Information
       description: >-
-         click on the version number on the welcome screen
+        click on the version number on the welcome screen
       value: |
         Spotify-Clone: [e.g. 0.0.x-alpha.y]
         macOS: [e.g. 13.2.1]
         iOS: [e.g. 17.0]
         Chrome: [e.g. 15.7.8]
         Safari: [e.g. 15.7.8]
-        
 
   - type: textarea
     attributes:
       label: Additional Context
       placeholder: >-
         Any other context or considerations about the bug...
-      
+
   - type: textarea
     attributes:
       label: Screenshots
@@ -69,8 +68,8 @@ body:
       description: If this issue is occurring on more than 1 version of the app, select the appropriate versions.
       multiple: true
       options:
-       - 0.1.0
-       - 0.x.x
+        - 0.1.0
+        - 0.x.x
     validations:
       required: true
 
@@ -80,8 +79,8 @@ body:
       label: Is there an existing issue for this?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-      - label: I have searched the existing issues
-        required: true
+        - label: I have searched the existing issues
+          required: true
 
   - type: checkboxes
     id: read-code-of-conduct
@@ -89,5 +88,5 @@ body:
       label: Have you read the Code of Conduct?
       description: Please read the CODE OF CONDUCT.
       options:
-      - label: I have read the CODE OF CONDUCT 🏢
-        required: true
+        - label: I have read the CODE OF CONDUCT 🏢
+          required: true

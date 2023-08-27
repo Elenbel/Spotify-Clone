@@ -1,0 +1,15 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\"img/spotify-icons-logos/logos/01_RGB/02_PNG/Spotify_Logo_RGB_Green.png\" height=\"128\">   <h1 align=\"center\">Spotify Clone for Web</h1> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
